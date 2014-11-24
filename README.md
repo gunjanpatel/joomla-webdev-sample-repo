@@ -1,4 +1,4 @@
-joomla-webdev-sample-repo
+Sample Repository for Joomla! Web Developement
 =========================
 
-This repository is for Joomla! Web Developement Repository sample
+This repository is for sample Joomla! Web Developement.
