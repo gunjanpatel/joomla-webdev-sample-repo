@@ -1,4 +1,4 @@
-Sample Repository for Joomla! Web Developement
+Sample Repository for Joomla! 3.x Web Developement
 =========================
 
-This repository is for sample Joomla! Web Developement.
+This repository is for sample Joomla! 3.x Web Developement.
